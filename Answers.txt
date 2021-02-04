@@ -1,0 +1,2 @@
+4k - File kl.md was removed from the staging area. The local file stays the same but will not be committed unless readded to index
+4M - File kl.md was removed from the stating area. The local file has been removed to match the last commit.
